@@ -40,3 +40,7 @@ Fake: Implementação que simulam o funcionamento de uma instancia. Exemplo banc
 
 npm install
 npm run start
+
+## Link Extra:
+
+https://martinfowler.com/articles/mocksArentStubs.html
